@@ -158,6 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
   
 Orah, Psalm Chiemenam -[Github](https://github.com/orahpsalm) / [Twitter](https://twitter.com/orahpsalm)
+Effiong, Emmanuel - [Github](https://github.com/Etette) / [Twitter](https://twitter.com/Em_Etok)
 
 Second part of Airbnb: Joann Vuong
 
