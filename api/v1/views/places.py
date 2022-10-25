@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 """Module with the view for Place objects"""
+=======
+"""A new view for Place objects that handles all default RESTFul API actions"""
+>>>>>>> 30fbffe9fff67f3aca723b9555072c04cabc869c
 from api.v1.views import app_views
 from models.amenity import Amenity
 from models.place import Place
